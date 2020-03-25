@@ -1,0 +1,531 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"eq",
+				"equal"
+			],
+			[
+				"gte",
+				"gtedfield"
+			],
+			[
+				"LOGG",
+				"LOGGER_LOGSTASH_PROTOCOL"
+			],
+			[
+				"CI_EN",
+				"CI_ENVIRONMENT_SLUG"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"confl",
+				"confluenceSearchUsername"
+			],
+			[
+				"Con",
+				"ConfluenceURL"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssgo",
+				"Set Syntax: Go"
+			],
+			[
+				"mark",
+				"Markdown HTML Preview"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"pcre",
+				"Package Control: Remove Package"
+			],
+			[
+				"print",
+				"Package Control: Install Package"
+			],
+			[
+				"y",
+				"Set Syntax: YAML"
+			],
+			[
+				"ma",
+				"Material Theme: Activate theme"
+			],
+			[
+				"go",
+				"Set Syntax: Go"
+			],
+			[
+				"pref",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"mater",
+				"Material Theme: Configuration"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"math",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"mat",
+				"Material Theme: Configuration"
+			],
+			[
+				"preferences",
+				"Preferences: Settings"
+			],
+			[
+				"jsonnn",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"wrp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ssjosn",
+				"Set Syntax: JSON"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssyam",
+				"Set Syntax: YAML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 1181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/User/work/github/validator/translations/en/en_test.go",
+		"/C/Users/User/work/github/validator/validator_test.go",
+		"/C/Users/User/work/github/validator/translations/en/en.go",
+		"/C/Users/User/work/dc-demo.bat",
+		"/C/Users/User/work/dc-dev.bat",
+		"/C/Users/User/work/dc-gitlab.bat",
+		"/C/Users/User/work/dc-jetbrains.bat",
+		"/C/Users/User/work/dc-k8s.bat",
+		"/C/Users/User/work/dc-stage.bat",
+		"/C/Users/User/work/dev.bat",
+		"/C/Users/User/Documents/nbaplus/Documents/betserk-test-account.txt",
+		"/C/Users/User/Documents/nbaplus/Architecture/authorization-scheme.txt",
+		"/C/Users/User/work/scripts/install-nats-streaming.sh",
+		"/C/Users/User/.gitconfig",
+		"/C/Users/User/Downloads/Telegram Desktop/services-env.json",
+		"/C/Users/User/Downloads/docker-compose.yaml",
+		"/C/Users/User/work/bets-test-dump-20-02-2020.sql",
+		"/C/Users/User/work/tmp/stage-processing-setup/test-docker-compose.yml",
+		"/C/Users/User/work/tmp/stage-processing-setup/processing-setup/docker-compose.yml",
+		"/C/Users/User/work/send-bets-report.sh",
+		"/C/Users/User/work/scripts/install-postgresql.sh",
+		"/C/Users/User/work/gitlab-runner.yaml",
+		"/C/Users/User/work/replay-v1.yml",
+		"/C/Users/User/work/default.conf",
+		"/C/Users/User/work/competitions.json",
+		"/C/Users/User/work/tmp/stage-processing-setup/install-nats-streaming.sh",
+		"/C/Users/User/work/scripts/install-mongodb.sh",
+		"/C/Users/User/work/scripts/install-docker.sh",
+		"/C/Users/User/work/scripts/install-docker-compose.sh",
+		"/C/Users/User/work/scripts/install_clickhouse.sh",
+		"/C/Users/User/work/tmp/stage-processing-setup/processing-setup/requests.json",
+		"/C/Users/User/work/consul-configuration.md",
+		"/C/Users/User/work/vault-configuration.md",
+		"/C/Users/User/work/tmp/vault-config.hcl",
+		"/C/Users/User/work/Barcelona - Athletico 9 Jan for Replay.csv",
+		"/C/Users/User/work/tmp/test-policy.hcl",
+		"/C/Users/User/work/backend/betradar-match-replay/matches/example.csv",
+		"/C/Users/User/Downloads/Telegram Desktop/front-gateway (3).log",
+		"/C/Users/User/Downloads/Telegram Desktop/accounting-gateway.log",
+		"/C/Users/User/Downloads/Telegram Desktop/front-gateway (2).log",
+		"/C/Users/User/Downloads/Telegram Desktop/front-gateway.log",
+		"/C/Users/User/Documents/nbaplus/operations.csv",
+		"/C/Users/User/Desktop/values.yaml",
+		"/C/Users/User/Downloads/table.csv",
+		"/C/Users/User/Documents/nbaplus/betradar-message-types.csv",
+		"/C/Users/User/Downloads/One match log.csv",
+		"/C/Users/User/Downloads/Telegram Desktop/doc_2019-12-13_16-09-40.gitlab-ci.yml",
+		"/C/Users/User/Downloads/Telegram Desktop/kube",
+		"/C/Users/User/Downloads/Telegram Desktop/small_test.yml",
+		"/C/Users/User/Downloads/Telegram Desktop/teaps-api.yaml",
+		"/C/Users/User/work/s.bat",
+		"/C/Users/User/work/translations-listings.txt",
+		"/C/Users/User/work/translations-usecases-listings.txt",
+		"/C/Users/User/work/luckme/luckme/casino/vue/server.js",
+		"/C/Users/User/work/luckme/luckme/casino/platform/configs/default.application.ini",
+		"/C/Users/User/.ssh/known_hosts",
+		"/C/Users/User/work/backend/errors/.git/config",
+		"/C/Users/User/.ssh/id_rsa.pub",
+		"/C/Users/User/work/backend/processing-setup/.git/refs/remotes/origin/HEAD",
+		"/C/Users/User/work/backend/processing-setup/.git/packed-refs",
+		"/C/Users/User/work/backend/processing-setup/.git/index",
+		"/C/Users/User/work/backend/bets/.git/config",
+		"/C/Users/User/Documents/nbaplus/match-management.md",
+		"/C/Users/User/work/w84thesun.key.pub",
+		"/C/Users/User/work/w84thesun.key",
+		"/C/Users/User/work/tmp/jwe-example.php",
+		"/C/Users/User/work/amazon-aws/confluence.pem",
+		"/C/Users/User/.GoLand2019.3/system/log/idea.log",
+		"/C/Users/User/work/tmp/teams-translations.txt",
+		"/C/Users/User/Downloads/Telegram Desktop/bets usecases and fails.txt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"C:\\Users\\User\\work\\luckme\\luckme\\casino",
+			"",
+			"*.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\n",
+			"},\n",
+			"\\n",
+			"LB",
+			"LF",
+			"\\t?\\n?",
+			"\\t\\n",
+			"\\t",
+			"\\n",
+			"\\s+",
+			"\\n",
+			"test.nbaplus.tk:9030",
+			"betradar_gatew",
+			"10.10.0.170",
+			"сьб",
+			"FixedString(36)",
+			"FixedString",
+			"FixedString(36)",
+			"type=\"\"153",
+			"offside",
+			"full",
+			"delta",
+			"error",
+			"10.10.0.170",
+			"=",
+			"localhost",
+			".*lost",
+			"2020-01-23 15:20:52.316072,5071,0,lost",
+			".*empty",
+			"(,)\\s+",
+			"\\s+\\|",
+			"(2020-01-23 \\d\\d:\\d\\d:\\d\\d.\\d+\\s+\\|\\s+\\d+\\s\\|\\s+\\d+\\s\\|\\s\\w+)\\s+",
+			"(2020-01-23 \\d\\d:\\d\\d:\\d\\d.\\d+ \\|   \\d+ \\|\\s+\\d+ \\|\\s?\\w+)\\s*",
+			"(2020-01-23 \\d\\d:\\d\\d:\\d\\d.\\d+ \\|   \\d+ \\|    \\d+ \\| \\w+ )",
+			" (2020-01-23 13:\\d\\d:\\d\\d.\\d+ \\|   \\d+ \\|    \\d+ \\| \\w+ )",
+			"(2020-01-23 13:\\d\\d:\\d\\d.\\d+ |   \\d+ |    \\d+ | \\w+ )",
+			" (2020-01-23 13:\\d\\d:\\d\\d.\\d+ |   \\d+ |    \\d+ | \\w+ )",
+			"\\s+=",
+			"(\\w+-\\w+-\\w+-\\w+-\\w+ \\|\\s+\\d+.00 )",
+			"({ \"_id\" : \"\\w+-\\w+-\\w+-\\w+-\\w+\", \"username\" : \"\\w+\" })\\s+",
+			"(\\w+-\\w+-\\w+-\\w+-\\w+ \\|\\s+\\d+.00 )",
+			"check_kube",
+			"\\\\n",
+			"(\\/\\*\\s)|(\\b//\\s)",
+			"(\\/\\*\\s)|(\\b//)",
+			"(\\/\\*)|(\\b//)",
+			"(\\b\\/\\*)|(//)",
+			"(\\/\\*)|(//)",
+			"<!--.*-->",
+			"gamesprovider_",
+			"gamesprovider",
+			"betserk",
+			"gamesprovider_betserk",
+			"gamesprovider",
+			"betserk",
+			"betserkservice",
+			"betserk",
+			"(\\d+)",
+			"\\s+$",
+			"                                                                                       ",
+			"                                                                                                  ",
+			"                                                                                                         ",
+			"                                                                                                              ",
+			"\"",
+			"\\s",
+			"eyJ0b",
+			".",
+			"run.processes.with.pty",
+			"entityType.*",
+			"entityType",
+			"\\s",
+			"=",
+			"({.*?}\\s})",
+			"^\\s+",
+			"({.*?})",
+			"{.*?}",
+			"\"\\w+\\-\\w+\\-\\w+\\-\\w+\\-\\w+\"",
+			"\\s+",
+			"\\bgoal\\b\"",
+			"\\bgoal\\b",
+			"goal",
+			"\\\\",
+			"\"market.*?\"",
+			".*,",
+			" { \"en-GB\" ,",
+			"\"translations\" ,",
+			":",
+			"(.*?)\\s+\\n$",
+			"(.*)\\s+$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"PB",
+			"PF",
+			"",
+			"\\n",
+			"",
+			"10.10.0.171",
+			"UUID",
+			"172.17.146.170",
+			": ",
+			"10.10.0.170",
+			"",
+			"\\1",
+			",",
+			"\\1\\n",
+			",",
+			"\\1\\n",
+			"\\n",
+			"",
+			"\\1,",
+			"",
+			"\\n",
+			"'",
+			"",
+			":",
+			"\\1\\n",
+			"",
+			"\\1\\n",
+			"",
+			",",
+			"\\1",
+			"\\1\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yabs.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
