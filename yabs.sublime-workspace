@@ -35,6 +35,42 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 624,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ahtanum.html",
+			"settings":
+			{
+				"buffer_size": 996,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cascade.html",
+			"settings":
+			{
+				"buffer_size": 976,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "amarillo.html",
+			"settings":
+			{
+				"buffer_size": 1040,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -48,16 +84,20 @@
 		"selected_items":
 		[
 			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
 				"pcin",
 				"Package Control: Install Package"
 			],
 			[
-				"pci",
-				"Package Control: List Packages"
+				"sshtml",
+				"Set Syntax: HTML"
 			],
 			[
-				"html",
-				"Set Syntax: HTML"
+				"pci",
+				"Package Control: List Packages"
 			],
 			[
 				"json",
@@ -209,9 +249,12 @@
 	},
 	"expanded_folders":
 	[
+		"/C/Users/User/work/learning/yet another beer shop"
 	],
 	"file_history":
 	[
+		"/C/Users/User/work/learning/yet another beer shop/amarillo.html",
+		"/C/Users/User/work/learning/yet another beer shop/ahtanum.html",
 		"/C/Users/User/work/github/validator/translations/en/en_test.go",
 		"/C/Users/User/work/github/validator/validator_test.go",
 		"/C/Users/User/work/github/validator/translations/en/en.go",
@@ -289,7 +332,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 101.0,
+		"height": 161.0,
 		"where_history":
 		[
 			"C:\\Users\\User\\work\\luckme\\luckme\\casino",
@@ -303,6 +346,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"></",
 			"\\n",
 			"},\n",
 			"\\n",
@@ -441,8 +485,126 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ahtanum.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "cascade.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "amarillo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -452,7 +614,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 72.0
 	},
 	"layout":
 	{
@@ -485,7 +647,7 @@
 	"project": "yabs.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 116.0
 	},
 	"save_all_on_build": true,
 	"select_file":
